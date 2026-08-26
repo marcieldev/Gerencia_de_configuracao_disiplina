@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization
 * text=auto
+print ("ola mundo")
+print ("ola mundo 2")
+print ("ola mundo 3")
